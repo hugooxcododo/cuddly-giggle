@@ -1,653 +1,660 @@
+
 {
-  "de_bank": [
-    {
-      "name": ["Unnamed", "AWP Spot"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-707.39038085938, -605.66687011719, 149.03125],
-      "viewangles": [5.0634055137634, -1.3760859966278],
-      "grenade": {
-        "run": 14,
-        "recovery_yaw": -90,
-        "jump": true
-      }
-    }
-  ],
-  "de_stmarc": [
-    {
-      "name": ["Unnamed", "Boat"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-7831.7182617188, 6527.0122070313, 39.553886413574],
-      "viewangles": [-28.755302429199, -36.263442993164],
-      "grenade": {
-        "run": 17
-      }
-    },
-    {
-      "name": ["Van", "Barrels (UP)"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-8153.83984375, 6775.4692382813, 38.764694213867],
-      "viewangles": [-8.7902765274048, 7.6015586853027],
-      "grenade": {
-        "run": 21
-      }
-    },
-    {
-      "name": ["Van", "Barrels (DOWN)"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-8153.8173828125, 6775.40234375, 38.765060424805],
-      "viewangles": [-9.5602579116821, 3.5612919330597],
-      "grenade": {
-        "run": 7
-      }
-    },
-    {
-      "name": ["Van", "Truck"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-8151.5405273438, 6771.650390625, 38.613784790039],
-      "viewangles": [-9.6750955581665, 15.881804466248],
-      "grenade": {
-        "run": 1
-      }
-    },
-    {
-      "name": ["Van", "Barrels (UP)"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-8153.8237304688, 6775.4711914063, 38.764694213867],
-      "viewangles": [-8.7902765274048, 7.6015586853027],
-      "grenade": {
-        "run": 21
-      }
-    },
-    {
-      "name": ["Van", "Truck"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-8151.5258789063, 6771.654296875, 38.613784790039],
-      "viewangles": [-9.6750955581665, 15.881804466248],
-      "grenade": {
-        "run": 1
-      }
-    },
-    {
-      "name": ["Boat", "MOST CRAZY PUSH LOCATION"],
-      "weapon": "weapon_molotov",
-      "position": [-7155.1499023438, 6193.533203125, 35.018928527832],
-      "viewangles": [-0.050052687525749, 129.18478393555],
-      "grenade": {
-        "run": 109,
-        "run_yaw": 48,
-        "recovery_yaw": 0,
-        "recovery_jump": true
-      }
-    },
-    {
-      "name": ["Ice", "Plant"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-8312.91796875, 6902.8569335938, 43.12223815918],
-      "viewangles": [-21.413709640503, -0.095052428543568],
-      "grenade": {
-        "run": 8,
-        "run_speed": true
-      }
-    },
-    {
-      "name": ["Boat", "Trash"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-6991.3740234375, 6322.4677734375, 32.458236694336],
-      "viewangles": [-10.981978416443, 116.31774902344],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["Plant", "Car"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-6113.4716796875, 6109.013671875, 32.664451599121],
-      "viewangles": [0.1586686372757, 155.72850036621],
-      "grenade": {
-        "run": 18,
-        "recovery_yaw": -120,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Barrel", "Plant"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-8515.447265625, 6640.0244140625, 61.246459960938],
-      "viewangles": [-21.193643569946, 9.5255298614502],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["Site", "Truck"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-6842.16796875, 6917.7026367188, 70.466369628906],
-      "viewangles": [-13.470310211182, 143.21252441406],
-      "duck": true
-    },
-    {
-      "name": ["Van", "Boat (CROUCH)"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-7960.5947265625, 6921.6142578125, 32.03125],
-      "viewangles": [-25.114505767822, -22.767711639404],
-      "grenade": {
-        "run": 24,
-        "run_yaw": 180
-      },
-      "duck": true
-    },
-    {
-      "name": ["Spawn", "Ice"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-6420.8813476563, 6197.5083007813, 32.197090148926],
-      "viewangles": [-13.994505882263, 159.02632141113],
-      "grenade": {
-        "run": 24,
-        "recovery_yaw": 0,
-        "delay": 10,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Spawn", "Car"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-6420.8149414063, 6197.4799804688, 32.201965332031],
-      "viewangles": [-1.2344578504562, 157.54156494141],
-      "grenade": {
-        "run": 6,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Spawn", "Barrel"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-6420.7338867188, 6197.4526367188, 32.201568603516],
-      "viewangles": [-0.8494399189949, 166.47665405273],
-      "grenade": {
-        "run": 21,
-        "jump": true
-      }
-    }
-  ],
-  "de_train": [
-    {
-      "name": ["Meta", "Plant (FAR)"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-160.65785217285, 679.38067626953, -215.96875],
-      "viewangles": [-4.2900176048279, -35.284160614014],
-      "grenade": {
-        "recovery_jump": true,
-        "delay": 7,
-        "jump": true
-      }
-    },
-    {
-      "name": ["MAIN", "Plant (FAR)"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-617.72619628906, 489.09808349609, -219.96875],
-      "viewangles": [-18.09497833252, -16.629993438721],
-      "grenade": {
-        "run": 19,
-        "delay": 2
-      }
-    },
-    {
-      "name": ["Ladder", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [129.03125, 487.3503112793, -159.14318847656],
-      "viewangles": [-15.784854888916, -65.169418334961],
-      "grenade": {
-        "recovery_yaw": 180
-      }
-    },
-    {
-      "name": ["Pop", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-449.62796020508, -305.37203979492, -215.96875],
-      "viewangles": [-10.13331413269, 15.09022808075],
-      "grenade": {
-        "delay": 10,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Karlox", "Meta Location UNSAFE"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [492.40603637695, 657.74822998047, -211.98066711426],
-      "viewangles": [12.526782989502, 172.23007202148],
-      "grenade": {
-        "run": 20,
-        "run_yaw": 90,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Karlox", "Meta Location"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [560.87915039063, 646.86608886719, -211.97315979004],
-      "viewangles": [9.6790609359741, -169.62532043457],
-      "grenade": {
-        "run": 19,
-        "recovery_yaw": -90
-      }
-    },
-    {
-      "name": ["Plant", "Meta"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [802.46936035156, -6.2509346008301, -126.96875],
-      "viewangles": [-14.107590675354, 142.02856445313],
-      "grenade": {
-        "delay": 2
-      }
-    },
-    {
-      "name": ["Ladder", "Electric"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [411.61212158203, 234.39839172363, -83.091323852539],
-      "viewangles": [6.6491365432739, -161.34568786621]
-    },
-    {
-      "name": ["Ladder", "Electric"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [411.08020019531, 236.71607971191, -84.509468078613],
-      "viewangles": [6.7591142654419, -161.51008605957]
-    },
-    {
-      "name": ["Ladder", "Plant (FAR)"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-158.03125, 233.3758392334, -96.545906066895],
-      "viewangles": [-8.8058681488037, -11.965863227844]
-    },
-    {
-      "name": ["Ladder", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-158.36885070801, 232.08122253418, -95.716293334961],
-      "viewangles": [-2.3708753585815, -20.930870056152]
-    },
-    {
-      "name": ["Ladder", "Karlox"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-158.03125, 233.3758392334, -96.545906066895],
-      "viewangles": [-1.3808748722076, 33.519149780273]
-    },
-    {
-      "name": ["Ladder", "Ivy Ladder"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-158.03125, 233.3758392334, -96.545906066895],
-      "viewangles": [-11.885873794556, 11.1341381073]
-    },
-    {
-      "name": ["Ladder", "Karlox"],
-      "weapon": "weapon_hegrenade",
-      "position": [-440.03125, 505.78509521484, -89.059265136719],
-      "viewangles": [-1.9308743476868, 7.4235916137695]
-    },
-    {
-      "name": ["Ladder", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-440.03125, 515.30401611328, -82.042579650879],
-      "viewangles": [-10.400802612305, -26.01665687561]
-    },
-    {
-      "name": ["Plant", "Main"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [576.06298828125, -60.371856689453, -129.57954406738],
-      "viewangles": [-10.070672035217, 156.03419494629],
-      "grenade": {
-        "run": 2
-      }
-    },
-    {
-      "name": ["Plant", "Pop"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [576.06201171875, -60.378105163574, -129.57908630371],
-      "viewangles": [-10.950675964355, -166.62074279785]
-    },
-    {
-      "name": ["Unnamed", "Ivy Push"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [1331.6651611328, 835.46887207031, -223.88055419922],
-      "viewangles": [-0.30626273155212, -7.076952457428],
-      "grenade": {
-        "run": 38,
-        "run_yaw": -90,
-        "delay": 6,
-        "recovery_yaw": 30,
-        "recovery_jump": true
-      }
-    },
-    {
-      "name": ["Unnamed", "Ivy Push"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [1331.6695556641, 835.46771240234, -223.88055419922],
-      "viewangles": [-0.086262710392475, -5.6469583511353],
-      "grenade": {
-        "run": 37,
-        "run_yaw": -90,
-        "delay": 6,
-        "recovery_yaw": 30,
-        "recovery_jump": true
-      }
-    },
-    {
-      "name": ["Plant", "Electric"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [790.70904541016, -20.433506011963, -127.00451660156],
-      "viewangles": [-8.0575151443481, 177.31309509277]
-    },
-    {
-      "name": ["Plant", "Electric"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [802.47607421875, -6.246762752533, -126.96875],
-      "viewangles": [-11.302579879761, 174.3683013916]
-    },
-    {
-      "name": ["Plant", "Meta"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [790.70080566406, -20.425863265991, -127.00451660156],
-      "viewangles": [-15.867523193359, 141.72760009766]
-    },
-    {
-      "name": ["Plant", "Electronic"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [607.66552734375, -19.276554107666, -130.48849487305],
-      "viewangles": [-2.3099982738495, 176.39588928223]
-    },
-    {
-      "name": ["Plant", "Meta"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [607.66375732422, -19.268712997437, -130.48849487305],
-      "viewangles": [-14.684998512268, 134.54090881348]
-    },
-    {
-      "name": ["Karlox", "Plant (FAR)"],
-      "description": "O_o",
-      "weapon": "weapon_smokegrenade",
-      "position": [434.02624511719, 735.98358154297, -211.96875],
-      "viewangles": [-29.094921112061, -74.703895568848]
-    },
-    {
-      "name": ["Plant", "Main"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [790.76324462891, -20.370317459106, -127.00379180908],
-      "viewangles": [14.080038070679, 157.50735473633],
-      "grenade": {
-        "run": 8,
-        "run_speed": true,
-        "recovery_yaw": 0,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Plant far", "Karlox"],
-      "description": "O_O",
-      "weapon": "weapon_smokegrenade",
-      "position": [758.03063964844, 14.858304977417, -128.01390075684],
-      "viewangles": [-4.0699925422668, 116.53177642822]
-    },
-    {
-      "name": ["Meta", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-128.25985717773, 679.966796875, -215.96876525879],
-      "viewangles": [-30.635154724121, -38.309131622314]
-    },
-    {
-      "name": ["Meta", "Karlox"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-205.85427856445, 678.18975830078, -215.96875],
-      "viewangles": [-1.9057335853577, 15.675038337708],
-      "grenade": {
-        "run": 15,
-        "run_yaw": -90,
-        "recovery_yaw": 180,
-        "recovery_jump": true
-      }
-    },
-    {
-      "name": ["Meta", "Karlox"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-160.65965270996, 679.37359619141, -215.96875],
-      "viewangles": [-1.0450184345245, 18.120845794678],
-      "grenade": {
-        "run": 20,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Electric", "Karlox"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-342.80517578125, 43.248313903809, -215.96875],
-      "viewangles": [-23.264934539795, 36.837741851807]
-    },
-    {
-      "name": ["Electric", "Plant"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-308.36401367188, 41.945232391357, -215.96875],
-      "viewangles": [-17.59997177124, -4.3572630882263]
-    },
-    {
-      "name": ["Electric", "Plant (FAR)"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-370.72326660156, 36.991527557373, -215.96875],
-      "viewangles": [-19.139945983887, -0.12226053327322],
-      "grenade": {
-        "run": 20
-      }
-    },
-    {
-      "name": ["Unnamed", "Plant"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [197.71365356445, 336.87936401367, -215.96875],
-      "viewangles": [12.058603286743, -52.024932861328],
-      "grenade": {
-        "run": 24,
-        "run_yaw": 109,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Unnamed", "Plant R"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [193.81718444824, 329.94985961914, -215.96875],
-      "viewangles": [17.558521270752, -75.265655517578],
-      "grenade": {
-        "run": 48,
-        "run_yaw": 90,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Meta", "Karlox"],
-      "description": "O_o",
-      "weapon": "weapon_hegrenade",
-      "position": [-205.86602783203, 678.18566894531, -215.96875],
-      "viewangles": [-1.7407337427139, 14.575037002563],
-      "grenade": {
-        "run": 13,
-        "run_yaw": -90,
-        "recovery_yaw": 90,
-        "recovery_jump": true
-      }
-    },
-    {
-      "name": ["Electric", "Plant"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-342.79446411133, 43.252059936523, -215.96875],
-      "viewangles": [-19.414915084839, -0.23226130008698]
-    },
-    {
-      "name": ["Electric", "Plant (FAR)"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-342.77877807617, 43.251258850098, -215.96875],
-      "viewangles": [-23.759941101074, -2.5972611904144]
-    },
-    {
-      "name": ["Ladder", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-440.05187988281, 499.01696777344, -95.244239807129],
-      "viewangles": [-12.48494720459, -28.667419433594]
-    },
-    {
-      "name": ["Ladder", "Plant (FAR)"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-440.05187988281, 511.29345703125, -89.917297363281],
-      "viewangles": [-17.599954605103, -23.167407989502]
-    },
-    {
-      "name": ["Ladder", "Plant"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-158.03125, 234.67054748535, -96.236289978027],
-      "viewangles": [-3.0799894332886, -22.122385025024]
-    },
-    {
-      "name": ["Ladder", "Plant (FAR)"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-158.03125, 234.61799621582, -96.271308898926],
-      "viewangles": [-9.0749826431274, -13.322357177734]
-    },
-    {
-      "name": ["Main", "Electric (PUSH)"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-730.18359375, 313.67294311523, -215.96875],
-      "viewangles": [-10.064951896667, 51.4176902771],
-      "grenade": {
-        "run": 23,
-        "recovery_jump": true,
-        "recovery_yaw": 0,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Pop", "Plant (FAR)"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-428.39532470703, -314.07601928711, -215.96875],
-      "viewangles": [-28.049886703491, 12.674925804138],
-      "grenade": {
-        "run": 9,
-        "run_yaw": 151,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Pop", "Plant"],
-      "description": "O_o",
-      "weapon": "weapon_molotov",
-      "position": [-431.08981323242, -314.56628417969, -215.96875],
-      "viewangles": [-21.504476547241, 15.344916343689],
-      "grenade": {
-        "run": 9,
-        "run_yaw": 165,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Ladder", "Karlox"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-440.16317749023, 495.6842956543, -94.705711364746],
-      "viewangles": [-2.7495057582855, 9.4048480987549],
-      "grenade": {
-        "recovery_jump": true,
-        "recovery_yaw": 90
-      }
-    },
-    {
-      "name": ["Electric", "Electric"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-742.13073730469, 304.01623535156, -215.96875],
-      "viewangles": [-2.5425896644592, 51.590404510498],
-      "grenade": {
-        "run": 14,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Karlox", "Karlox"],
-      "description": "O_O",
-      "weapon": "weapon_hegrenade",
-      "position": [-527.42303466797, -422.04260253906, -215.96875],
-      "viewangles": [-18.184078216553, 47.646305084229],
-      "grenade": {
-        "run": 25,
-        "recovery_yaw": 180,
-        "recovery_jump": true
-      }
-    },
-    {
-      "name": ["Karlox", "Karlox"],
-      "description": "O_O",
-      "weapon": "weapon_molotov",
-      "position": [-527.41442871094, -422.03286743164, -215.96875],
-      "viewangles": [-18.184078216553, 48.526309967041],
-      "grenade": {
-        "run": 26,
-        "recovery_yaw": 180,
-        "recovery_jump": true
-      }
-    }
-  ]
+	"name": "boss lokace",
+	"description": "GODLIKE NADES BY HUGO",
+	"update_timestamp": 1596507260, 
+  "url_format": "https://raw.githubusercontent.com/sapphyrus/helper/master/maps/%map%",
+  "locations": {
+                      "de_bank": [
+                        {
+                          "name": ["Unnamed", "AWP Spot"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-707.39038085938, -605.66687011719, 149.03125],
+                          "viewangles": [5.0634055137634, -1.3760859966278],
+                          "grenade": {
+                            "run": 14,
+                            "recovery_yaw": -90,
+                            "jump": true
+                          }
+                        }
+                      ],
+                      "de_stmarc": [
+                        {
+                          "name": ["Unnamed", "Boat"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-7831.7182617188, 6527.0122070313, 39.553886413574],
+                          "viewangles": [-28.755302429199, -36.263442993164],
+                          "grenade": {
+                            "run": 17
+                          }
+                        },
+                        {
+                          "name": ["Van", "Barrels (UP)"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-8153.83984375, 6775.4692382813, 38.764694213867],
+                          "viewangles": [-8.7902765274048, 7.6015586853027],
+                          "grenade": {
+                            "run": 21
+                          }
+                        },
+                        {
+                          "name": ["Van", "Barrels (DOWN)"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-8153.8173828125, 6775.40234375, 38.765060424805],
+                          "viewangles": [-9.5602579116821, 3.5612919330597],
+                          "grenade": {
+                            "run": 7
+                          }
+                        },
+                        {
+                          "name": ["Van", "Truck"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-8151.5405273438, 6771.650390625, 38.613784790039],
+                          "viewangles": [-9.6750955581665, 15.881804466248],
+                          "grenade": {
+                            "run": 1
+                          }
+                        },
+                        {
+                          "name": ["Van", "Barrels (UP)"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-8153.8237304688, 6775.4711914063, 38.764694213867],
+                          "viewangles": [-8.7902765274048, 7.6015586853027],
+                          "grenade": {
+                            "run": 21
+                          }
+                        },
+                        {
+                          "name": ["Van", "Truck"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-8151.5258789063, 6771.654296875, 38.613784790039],
+                          "viewangles": [-9.6750955581665, 15.881804466248],
+                          "grenade": {
+                            "run": 1
+                          }
+                        },
+                        {
+                          "name": ["Boat", "MOST CRAZY PUSH LOCATION"],
+                          "weapon": "weapon_molotov",
+                          "position": [-7155.1499023438, 6193.533203125, 35.018928527832],
+                          "viewangles": [-0.050052687525749, 129.18478393555],
+                          "grenade": {
+                            "run": 109,
+                            "run_yaw": 48,
+                            "recovery_yaw": 0,
+                            "recovery_jump": true
+                          }
+                        },
+                        {
+                          "name": ["Ice", "Plant"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-8312.91796875, 6902.8569335938, 43.12223815918],
+                          "viewangles": [-21.413709640503, -0.095052428543568],
+                          "grenade": {
+                            "run": 8,
+                            "run_speed": true
+                          }
+                        },
+                        {
+                          "name": ["Boat", "Trash"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-6991.3740234375, 6322.4677734375, 32.458236694336],
+                          "viewangles": [-10.981978416443, 116.31774902344],
+                          "grenade": {
+                            "run": 6
+                          }
+                        },
+                        {
+                          "name": ["Plant", "Car"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-6113.4716796875, 6109.013671875, 32.664451599121],
+                          "viewangles": [0.1586686372757, 155.72850036621],
+                          "grenade": {
+                            "run": 18,
+                            "recovery_yaw": -120,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Barrel", "Plant"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-8515.447265625, 6640.0244140625, 61.246459960938],
+                          "viewangles": [-21.193643569946, 9.5255298614502],
+                          "grenade": {
+                            "run": 6
+                          }
+                        },
+                        {
+                          "name": ["Site", "Truck"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-6842.16796875, 6917.7026367188, 70.466369628906],
+                          "viewangles": [-13.470310211182, 143.21252441406],
+                          "duck": true
+                        },
+                        {
+                          "name": ["Van", "Boat (CROUCH)"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-7960.5947265625, 6921.6142578125, 32.03125],
+                          "viewangles": [-25.114505767822, -22.767711639404],
+                          "grenade": {
+                            "run": 24,
+                            "run_yaw": 180
+                          },
+                          "duck": true
+                        },
+                        {
+                          "name": ["Spawn", "Ice"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-6420.8813476563, 6197.5083007813, 32.197090148926],
+                          "viewangles": [-13.994505882263, 159.02632141113],
+                          "grenade": {
+                            "run": 24,
+                            "recovery_yaw": 0,
+                            "delay": 10,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Spawn", "Car"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-6420.8149414063, 6197.4799804688, 32.201965332031],
+                          "viewangles": [-1.2344578504562, 157.54156494141],
+                          "grenade": {
+                            "run": 6,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Spawn", "Barrel"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-6420.7338867188, 6197.4526367188, 32.201568603516],
+                          "viewangles": [-0.8494399189949, 166.47665405273],
+                          "grenade": {
+                            "run": 21,
+                            "jump": true
+                          }
+                        }
+                      ],
+                      "de_train": [
+                        {
+                          "name": ["Meta", "Plant (FAR)"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-160.65785217285, 679.38067626953, -215.96875],
+                          "viewangles": [-4.2900176048279, -35.284160614014],
+                          "grenade": {
+                            "recovery_jump": true,
+                            "delay": 7,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["MAIN", "Plant (FAR)"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-617.72619628906, 489.09808349609, -219.96875],
+                          "viewangles": [-18.09497833252, -16.629993438721],
+                          "grenade": {
+                            "run": 19,
+                            "delay": 2
+                          }
+                        },
+                        {
+                          "name": ["Ladder", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [129.03125, 487.3503112793, -159.14318847656],
+                          "viewangles": [-15.784854888916, -65.169418334961],
+                          "grenade": {
+                            "recovery_yaw": 180
+                          }
+                        },
+                        {
+                          "name": ["Pop", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-449.62796020508, -305.37203979492, -215.96875],
+                          "viewangles": [-10.13331413269, 15.09022808075],
+                          "grenade": {
+                            "delay": 10,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Karlox", "Meta Location UNSAFE"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [492.40603637695, 657.74822998047, -211.98066711426],
+                          "viewangles": [12.526782989502, 172.23007202148],
+                          "grenade": {
+                            "run": 20,
+                            "run_yaw": 90,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Karlox", "Meta Location"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [560.87915039063, 646.86608886719, -211.97315979004],
+                          "viewangles": [9.6790609359741, -169.62532043457],
+                          "grenade": {
+                            "run": 19,
+                            "recovery_yaw": -90
+                          }
+                        },
+                        {
+                          "name": ["Plant", "Meta"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [802.46936035156, -6.2509346008301, -126.96875],
+                          "viewangles": [-14.107590675354, 142.02856445313],
+                          "grenade": {
+                            "delay": 2
+                          }
+                        },
+                        {
+                          "name": ["Ladder", "Electric"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [411.61212158203, 234.39839172363, -83.091323852539],
+                          "viewangles": [6.6491365432739, -161.34568786621]
+                        },
+                        {
+                          "name": ["Ladder", "Electric"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [411.08020019531, 236.71607971191, -84.509468078613],
+                          "viewangles": [6.7591142654419, -161.51008605957]
+                        },
+                        {
+                          "name": ["Ladder", "Plant (FAR)"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-158.03125, 233.3758392334, -96.545906066895],
+                          "viewangles": [-8.8058681488037, -11.965863227844]
+                        },
+                        {
+                          "name": ["Ladder", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-158.36885070801, 232.08122253418, -95.716293334961],
+                          "viewangles": [-2.3708753585815, -20.930870056152]
+                        },
+                        {
+                          "name": ["Ladder", "Karlox"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-158.03125, 233.3758392334, -96.545906066895],
+                          "viewangles": [-1.3808748722076, 33.519149780273]
+                        },
+                        {
+                          "name": ["Ladder", "Ivy Ladder"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-158.03125, 233.3758392334, -96.545906066895],
+                          "viewangles": [-11.885873794556, 11.1341381073]
+                        },
+                        {
+                          "name": ["Ladder", "Karlox"],
+                          "weapon": "weapon_hegrenade",
+                          "position": [-440.03125, 505.78509521484, -89.059265136719],
+                          "viewangles": [-1.9308743476868, 7.4235916137695]
+                        },
+                        {
+                          "name": ["Ladder", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-440.03125, 515.30401611328, -82.042579650879],
+                          "viewangles": [-10.400802612305, -26.01665687561]
+                        },
+                        {
+                          "name": ["Plant", "Main"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [576.06298828125, -60.371856689453, -129.57954406738],
+                          "viewangles": [-10.070672035217, 156.03419494629],
+                          "grenade": {
+                            "run": 2
+                          }
+                        },
+                        {
+                          "name": ["Plant", "Pop"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [576.06201171875, -60.378105163574, -129.57908630371],
+                          "viewangles": [-10.950675964355, -166.62074279785]
+                        },
+                        {
+                          "name": ["Unnamed", "Ivy Push"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [1331.6651611328, 835.46887207031, -223.88055419922],
+                          "viewangles": [-0.30626273155212, -7.076952457428],
+                          "grenade": {
+                            "run": 38,
+                            "run_yaw": -90,
+                            "delay": 6,
+                            "recovery_yaw": 30,
+                            "recovery_jump": true
+                          }
+                        },
+                        {
+                          "name": ["Unnamed", "Ivy Push"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [1331.6695556641, 835.46771240234, -223.88055419922],
+                          "viewangles": [-0.086262710392475, -5.6469583511353],
+                          "grenade": {
+                            "run": 37,
+                            "run_yaw": -90,
+                            "delay": 6,
+                            "recovery_yaw": 30,
+                            "recovery_jump": true
+                          }
+                        },
+                        {
+                          "name": ["Plant", "Electric"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [790.70904541016, -20.433506011963, -127.00451660156],
+                          "viewangles": [-8.0575151443481, 177.31309509277]
+                        },
+                        {
+                          "name": ["Plant", "Electric"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [802.47607421875, -6.246762752533, -126.96875],
+                          "viewangles": [-11.302579879761, 174.3683013916]
+                        },
+                        {
+                          "name": ["Plant", "Meta"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [790.70080566406, -20.425863265991, -127.00451660156],
+                          "viewangles": [-15.867523193359, 141.72760009766]
+                        },
+                        {
+                          "name": ["Plant", "Electronic"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [607.66552734375, -19.276554107666, -130.48849487305],
+                          "viewangles": [-2.3099982738495, 176.39588928223]
+                        },
+                        {
+                          "name": ["Plant", "Meta"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [607.66375732422, -19.268712997437, -130.48849487305],
+                          "viewangles": [-14.684998512268, 134.54090881348]
+                        },
+                        {
+                          "name": ["Karlox", "Plant (FAR)"],
+                          "description": "O_o",
+                          "weapon": "weapon_smokegrenade",
+                          "position": [434.02624511719, 735.98358154297, -211.96875],
+                          "viewangles": [-29.094921112061, -74.703895568848]
+                        },
+                        {
+                          "name": ["Plant", "Main"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [790.76324462891, -20.370317459106, -127.00379180908],
+                          "viewangles": [14.080038070679, 157.50735473633],
+                          "grenade": {
+                            "run": 8,
+                            "run_speed": true,
+                            "recovery_yaw": 0,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Plant far", "Karlox"],
+                          "description": "O_O",
+                          "weapon": "weapon_smokegrenade",
+                          "position": [758.03063964844, 14.858304977417, -128.01390075684],
+                          "viewangles": [-4.0699925422668, 116.53177642822]
+                        },
+                        {
+                          "name": ["Meta", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-128.25985717773, 679.966796875, -215.96876525879],
+                          "viewangles": [-30.635154724121, -38.309131622314]
+                        },
+                        {
+                          "name": ["Meta", "Karlox"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-205.85427856445, 678.18975830078, -215.96875],
+                          "viewangles": [-1.9057335853577, 15.675038337708],
+                          "grenade": {
+                            "run": 15,
+                            "run_yaw": -90,
+                            "recovery_yaw": 180,
+                            "recovery_jump": true
+                          }
+                        },
+                        {
+                          "name": ["Meta", "Karlox"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-160.65965270996, 679.37359619141, -215.96875],
+                          "viewangles": [-1.0450184345245, 18.120845794678],
+                          "grenade": {
+                            "run": 20,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Electric", "Karlox"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-342.80517578125, 43.248313903809, -215.96875],
+                          "viewangles": [-23.264934539795, 36.837741851807]
+                        },
+                        {
+                          "name": ["Electric", "Plant"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-308.36401367188, 41.945232391357, -215.96875],
+                          "viewangles": [-17.59997177124, -4.3572630882263]
+                        },
+                        {
+                          "name": ["Electric", "Plant (FAR)"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-370.72326660156, 36.991527557373, -215.96875],
+                          "viewangles": [-19.139945983887, -0.12226053327322],
+                          "grenade": {
+                            "run": 20
+                          }
+                        },
+                        {
+                          "name": ["Unnamed", "Plant"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [197.71365356445, 336.87936401367, -215.96875],
+                          "viewangles": [12.058603286743, -52.024932861328],
+                          "grenade": {
+                            "run": 24,
+                            "run_yaw": 109,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Unnamed", "Plant R"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [193.81718444824, 329.94985961914, -215.96875],
+                          "viewangles": [17.558521270752, -75.265655517578],
+                          "grenade": {
+                            "run": 48,
+                            "run_yaw": 90,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Meta", "Karlox"],
+                          "description": "O_o",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-205.86602783203, 678.18566894531, -215.96875],
+                          "viewangles": [-1.7407337427139, 14.575037002563],
+                          "grenade": {
+                            "run": 13,
+                            "run_yaw": -90,
+                            "recovery_yaw": 90,
+                            "recovery_jump": true
+                          }
+                        },
+                        {
+                          "name": ["Electric", "Plant"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-342.79446411133, 43.252059936523, -215.96875],
+                          "viewangles": [-19.414915084839, -0.23226130008698]
+                        },
+                        {
+                          "name": ["Electric", "Plant (FAR)"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-342.77877807617, 43.251258850098, -215.96875],
+                          "viewangles": [-23.759941101074, -2.5972611904144]
+                        },
+                        {
+                          "name": ["Ladder", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-440.05187988281, 499.01696777344, -95.244239807129],
+                          "viewangles": [-12.48494720459, -28.667419433594]
+                        },
+                        {
+                          "name": ["Ladder", "Plant (FAR)"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-440.05187988281, 511.29345703125, -89.917297363281],
+                          "viewangles": [-17.599954605103, -23.167407989502]
+                        },
+                        {
+                          "name": ["Ladder", "Plant"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-158.03125, 234.67054748535, -96.236289978027],
+                          "viewangles": [-3.0799894332886, -22.122385025024]
+                        },
+                        {
+                          "name": ["Ladder", "Plant (FAR)"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-158.03125, 234.61799621582, -96.271308898926],
+                          "viewangles": [-9.0749826431274, -13.322357177734]
+                        },
+                        {
+                          "name": ["Main", "Electric (PUSH)"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-730.18359375, 313.67294311523, -215.96875],
+                          "viewangles": [-10.064951896667, 51.4176902771],
+                          "grenade": {
+                            "run": 23,
+                            "recovery_jump": true,
+                            "recovery_yaw": 0,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Pop", "Plant (FAR)"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-428.39532470703, -314.07601928711, -215.96875],
+                          "viewangles": [-28.049886703491, 12.674925804138],
+                          "grenade": {
+                            "run": 9,
+                            "run_yaw": 151,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Pop", "Plant"],
+                          "description": "O_o",
+                          "weapon": "weapon_molotov",
+                          "position": [-431.08981323242, -314.56628417969, -215.96875],
+                          "viewangles": [-21.504476547241, 15.344916343689],
+                          "grenade": {
+                            "run": 9,
+                            "run_yaw": 165,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Ladder", "Karlox"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-440.16317749023, 495.6842956543, -94.705711364746],
+                          "viewangles": [-2.7495057582855, 9.4048480987549],
+                          "grenade": {
+                            "recovery_jump": true,
+                            "recovery_yaw": 90
+                          }
+                        },
+                        {
+                          "name": ["Electric", "Electric"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-742.13073730469, 304.01623535156, -215.96875],
+                          "viewangles": [-2.5425896644592, 51.590404510498],
+                          "grenade": {
+                            "run": 14,
+                            "recovery_jump": true,
+                            "jump": true
+                          }
+                        },
+                        {
+                          "name": ["Karlox", "Karlox"],
+                          "description": "O_O",
+                          "weapon": "weapon_hegrenade",
+                          "position": [-527.42303466797, -422.04260253906, -215.96875],
+                          "viewangles": [-18.184078216553, 47.646305084229],
+                          "grenade": {
+                            "run": 25,
+                            "recovery_yaw": 180,
+                            "recovery_jump": true
+                          }
+                        },
+                        {
+                          "name": ["Karlox", "Karlox"],
+                          "description": "O_O",
+                          "weapon": "weapon_molotov",
+                          "position": [-527.41442871094, -422.03286743164, -215.96875],
+                          "viewangles": [-18.184078216553, 48.526309967041],
+                          "grenade": {
+                            "run": 26,
+                            "recovery_yaw": 180,
+                            "recovery_jump": true
+                          }
+                        }
+                      ]
+                    }
 }
